@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<application xmlns="http://ns.adobe.com/air/application/2.7"> 
+  <id>org.ngsdev.BFMPlayer</id> 
+  <versionNumber>0.1</versionNumber> 
+  <filename>block.fm</filename> 
+  <initialWindow> 
+    <content>index.html</content> 
+    <visible>true</visible> 
+    <width>300</width> 
+    <height>794</height> 
+  </initialWindow> 
+</application>
